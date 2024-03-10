@@ -28,4 +28,4 @@
 <br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=justmonis&" alt="justmonis" /></p>
 
-![Local GIF](customer-market-analyzer-3771785-3233938.mp4)
+![Local GIF](final gif.gif)
