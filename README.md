@@ -31,4 +31,4 @@
 <br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=justmonis&" alt="justmonis" /></p>
 
-![Local GIF](relative/path/to/your.gif)
+![Local GIF](customer-market-analyzer-3771785-3233938.mp4)
