@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/monisahmad-buisnessintelligence-project-portfolio](https://www.novypro.com/profile_projects/monisahmad-buisnessintelligence-project-portfolio)
 
-- 📝 I regularly write articles on [https://medium.com/@moniselman152/data-driven-hope-empowering-marginalized-communities-18e16c365413](https://medium.com/@moniselman152/data-driven-hope-empowering-marginalized-communities-18e16c365413)
+- 📝 I regularly write articles on [https://medium.com/@moniselman152](https://medium.com/@moniselman152)
 
 - 💬 Ask me about **Relational Database SQL**
 
