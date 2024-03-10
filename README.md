@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Monis Ahmad</h1>
-<h3 align="center">A passionate Data Analyst/Scientist from India</h3>
+<h1 align="left">Hey! I'm Monis Ahmad</h1>
+<h3 align="left">A passionate Data Analyst/Scientist from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/justmonis/_gif/c2ed2f56c9bcfc3201ea69521b0e60db63f32388/ggfctft.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justmonis&label=Profile%20views&color=0e75b6&style=flat" alt="justmonis" /> </p>
 
