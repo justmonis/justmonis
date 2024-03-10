@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Monis Ahmad</h1>
+<h1 align="left">Hey, I'm Monis Ahmad</h1>
 <h3 align="center">A passionate Data Analyst/Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justmonis&label=Profile%20views&color=0e75b6&style=flat" alt="justmonis" /> </p>
