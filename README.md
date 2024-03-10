@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justmonis&label=Profile%20views&color=0e75b6&style=flat" alt="justmonis" /> </p>
 
-- 🔭 I’m currently working on **FMCG supply chain**
+- 🔭 I’m currently working on **FMCG supply chain Project**
 
 - 👯 I’m looking to collaborate on **Data Analyst Projects**
 
