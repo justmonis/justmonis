@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/monisahmad-buisnessintelligence-project-portfolio](https://www.novypro.com/profile_projects/monisahmad-buisnessintelligence-project-portfolio)
+- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/monisahmad-buisnessintelligence-project-portfolio](https://www.novypro.com/profile_projects/monis23)
 
 - 📝 I regularly write articles on [https://medium.com/@moniselman152](https://medium.com/@moniselman152)
 
