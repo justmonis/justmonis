@@ -1,5 +1,5 @@
 <h1 align="left">Hey! I'm Monis Ahmad</h1>
-<h3 align="left">A passionate Data Analyst/Scientist from India</h3>
+<h3 align="left">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="Coding" width="550" src="https://raw.githubusercontent.com/justmonis/_gif/main/ggfctft.gif">
 
